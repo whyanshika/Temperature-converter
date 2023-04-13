@@ -77,7 +77,7 @@ section .air{
     min-height: 290px;
     border-radius: 10px;
     background-color:  #c17de0 ;
-    box-shadow:0 0 30px #010710;
+    box-shadow:0 0 30px #ffffff;
 }
 
 label {
