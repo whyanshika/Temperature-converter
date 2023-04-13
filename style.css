@@ -82,7 +82,6 @@ section .air{
 
 label {
     font-size: 20px;
-    /*line-height: 30px;*/
 }
 
 #temp {
@@ -136,14 +135,11 @@ label {
 .image1 img{
       
         width: 70%;
-        border-radius: 100px;
-        /*box-shadow: 0 0 30px #033a80;*/
+        
 }
 .image2 img{
       
     width: 70%;
-    border-radius: 100px;
-    /*box-shadow: 0 0 30px #df800c;*/
 }
 .note{
     width: 100%;
